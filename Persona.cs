@@ -1,6 +1,6 @@
 namespace MiPrimeraApp.Consola
 {
-    class Persona 
+    class Persona
     {
         public string nombre;
         public int edad;
